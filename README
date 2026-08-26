@@ -1,0 +1,139 @@
+# LeetCode Data Structures & Algorithms Quest
+
+Solutions and notes for the [LeetCode Data Structures & Algorithms Quest](https://leetcode.com/quest/data-structures-and-algorithms-quest/).
+
+This repository is a collection of my solutions to the problems in the quest, organized by topic and difficulty. The goal is to build a strong foundation in **Data Structures & Algorithms** through consistent problem solving and practice.
+
+---
+
+## Progress
+
+| Topic                    | Solved | Status |
+| ------------------------ | -----: | ------ |
+| Arrays & Strings         |      0 | ⬜      |
+| Linked Lists             |      0 | ⬜      |
+| Stacks & Queues          |      0 | ⬜      |
+| Hash Tables              |      0 | ⬜      |
+| Trees                    |      0 | ⬜      |
+| Graphs                   |      0 | ⬜      |
+| Heaps / Priority Queues  |      0 | ⬜      |
+| Binary Search            |      0 | ⬜      |
+| Sorting                  |      0 | ⬜      |
+| Recursion & Backtracking |      0 | ⬜      |
+| Dynamic Programming      |      0 | ⬜      |
+| Greedy Algorithms        |      0 | ⬜      |
+
+> Progress will be updated as problems are solved.
+
+---
+
+## Repository Structure
+
+```text
+.
+├── Arrays/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
+├── Linked-Lists/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
+├── Stacks-Queues/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
+├── Trees/
+├── Graphs/
+├── Hash-Tables/
+├── Heaps/
+├── Binary-Search/
+├── Sorting/
+├── Recursion-Backtracking/
+├── Dynamic-Programming/
+└── Greedy/
+```
+
+---
+
+## Solution Format
+
+Each solution contains:
+
+* Problem name and LeetCode link
+* Problem number
+* Difficulty
+* Approach
+* Time complexity
+* Space complexity
+* Implementation
+
+Example:
+
+```text
+Problem: Two Sum
+Difficulty: Easy
+
+Approach:
+Use a hash map to store previously visited numbers and their indices.
+
+Complexity:
+Time:  O(n)
+Space: O(n)
+```
+
+---
+
+## Goals
+
+* [ ] Complete the Data Structures & Algorithms Quest
+* [ ] Understand the underlying concepts instead of memorizing solutions
+* [ ] Improve problem-solving and algorithmic thinking
+* [ ] Analyze time and space complexity for every solution
+* [ ] Revisit difficult problems and optimize previous solutions
+* [ ] Build a consistent LeetCode practice routine
+
+---
+
+## Languages
+
+Solutions may be implemented in:
+
+* C++
+* Python
+* SQL
+
+The primary language for algorithmic problems is **C++**.
+
+---
+
+## Problem-Solving Approach
+
+For each problem, I try to follow this process:
+
+1. Understand the problem and constraints
+2. Identify the relevant data structure or algorithm
+3. Come up with a brute-force solution
+4. Look for possible optimizations
+5. Analyze time and space complexity
+6. Implement the solution
+7. Test edge cases
+8. Revisit the problem later if necessary
+
+---
+
+## Resources
+
+* [LeetCode](https://leetcode.com/)
+* [Data Structures & Algorithms Quest](https://leetcode.com/quest/data-structures-and-algorithms-quest/)
+
+---
+
+## Disclaimer
+
+This repository is intended for **learning and practice**.
+
+Solutions are written to document my own problem-solving process and understanding. If you're working through the quest yourself, try solving each problem before looking at the solutions.
